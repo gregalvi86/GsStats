@@ -5,7 +5,7 @@ import { updatePageInfo } from 'config/metadata'
 class AboutContainer extends Component {
   componentDidMount() {
     const pageInfo = {
-      title: 'about · uxscoreboard'
+      title: 'about · GsSportsCentral'
     }
     updatePageInfo(pageInfo)
   }
